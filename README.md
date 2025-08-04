@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+### 🚀 Sobre Mim
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gabrielarildo&show_icons=true&theme=radical&hide_border=true" width="400"/>
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+###  💻 Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -37,7 +37,30 @@
 
 ---
 
-## 📫 Contato & Redes Sociais
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielarildo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielarildo&theme=tokyonight&hide_border=true&background=0D1117" width="400"/>
+
+</div>
+
+---
+
+### 🌍 Idiomas
+
+<div align="center">
+  
+| Idioma | Proficiência |
+|----------|-------------|
+| 🇧🇷 **Português** | Nativo |
+| 🇺🇸 **Inglês** | Intermediário |
+
+</div>
+
+---
+
+### 📫 Contato & Redes Sociais
 
 <div align="center">
 
@@ -50,11 +73,14 @@
 
 ---
 
-<details>
-  <summary>🎯 Objetivos Profissionais</summary>
+<div align="center">
+  
+  🎯 Objetivos Profissionais
+  |-----------------------|
+  | Evoluir como desenvolvedor full stack, focando em sistemas escaláveis e limpos |  
+  | Contribuir para projetos open source |  
+  | Aprender novas tecnologias e metodologias ágeis | 
 
-- Evoluir como desenvolvedor full stack, focando em sistemas escaláveis e limpos  
-- Contribuir para projetos open source  
-- Aprender novas tecnologias e metodologias ágeis
+</div>
 
-</details>
+
