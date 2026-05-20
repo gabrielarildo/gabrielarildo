@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:7B2CBF,100:C77DFF&height=160&section=header&text=Gabriel%20Gomes%20Ferreiras%20Arildo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:7B2CBF,100:C77DFF&height=160&section=header&text=Gabriel%20Gomes%20Ferreira%20Arildo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
