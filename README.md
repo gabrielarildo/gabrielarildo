@@ -1,4 +1,8 @@
-# 👋 Olá! Eu sou Gabriel Arildo
+<div align="center">
+  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:7B2CBF,100:C77DFF&height=160&section=header&text=Gabriel%20Gomes%20Ferreiras%20Arildo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+</div>
 
 <div align="center">
   
@@ -8,11 +12,7 @@
   
 </div>
 
----
-
 ### 🚀 Sobre Mim
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=gabrielarildo&show_icons=true&theme=radical&hide_border=true" width="400"/>
 
 - Estudante de Desenvolvimento de Sistemas na ETEC  
 - Experiência com C, Java, HTML, CSS, JavaScript e bancos de dados  
@@ -32,6 +32,26 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielarildo&theme=radical"/>
+
+<br><br>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielarildo&theme=radical"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielarildo&theme=radical"/>
+
+<br><br>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielarildo&theme=radical"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielarildo&theme=radical&utcOffset=-3"/>
 
 </div>
 
@@ -80,6 +100,12 @@
   | Evoluir como desenvolvedor full stack, focando em sistemas escaláveis e limpos |  
   | Contribuir para projetos open source |  
   | Aprender novas tecnologias e metodologias ágeis | 
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,50:7B2CBF,100:240046&height=120&section=footer"/>
 
 </div>
 
